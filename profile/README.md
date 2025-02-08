@@ -1,12 +1,16 @@
-## Hi there 👋
+## ✈️​ » ErysiaStudios
 
-<!--
+» **Erysia** est une *"agence"* pour aider à organisé ou a Développé et Géré des **Évènements** avec des **particuliers**.     
 
-**Here are some ideas to get you started:**
+» **Erysia** n'est pas encore Officiel il est donc difficile de déterminé son ouverture.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📞​ • Contact(s): 
+
+» Email: `.`      
+» Discord `.`
+
+***» En cas de soucis avec le Site veuillez ouvrir un ticket sur le Discord.***
+
+## ⚙️​ • Équipe: 
+
+» **CEO & Développeur**: Gabriel (Gabriel_lrx)
