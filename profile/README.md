@@ -1,6 +1,4 @@
-## ✈️​ » ErysiaStudios
-
-» **Erysia** est une *"agence"* pour aider à organisé ou a Développé et Géré des **Évènements** avec des **particuliers**.     
+## ✈️​ » ErysiaStudios 
 
 » **Erysia** n'est pas encore Officiel il est donc difficile de déterminé son ouverture.
 
